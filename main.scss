@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: whitesmoke;
+    color: blue;
+    font-size: larger;
+}
+
+.card {
+    background-color: lightyellow;
+    width:640px;
+    img {
+        display: block;
+    }
+    .content {
+      
+       border: 1px solid;
+      
+    }
+}
